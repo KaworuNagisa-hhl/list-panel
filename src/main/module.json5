@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "list_panel",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
