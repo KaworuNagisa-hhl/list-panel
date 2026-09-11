@@ -14,16 +14,6 @@
 ohpm install list-panel
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "list-panel": "file:../list-panel",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
