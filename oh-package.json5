@@ -9,16 +9,16 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/KaworuNagisa-hhl/list-panel",
   "keywords": [
-    "OpenHarmony",
-    "HarmonyOS",
-    "ArkUI",
-    "like-ios",
-    "ios-like",
-    "kaworunagisa_hhl",
+    "openharmony",
+    "harmonyos",
+    "arkui",
+    "ui",
+    "component",
     "list",
     "panel",
-    "grouped-list",
-    "settings"
+    "group",
+    "settings",
+    "layout"
   ],
   "dependencies": {
     "@kaworunagisa_hhl/theme": "file:../theme"
