@@ -1,6 +1,6 @@
 {
   "modelVersion": "6.0.2",
-  "name": "list-panel",
+  "name": "@kaworunagisa_hhl/list-panel",
   "version": "1.0.3",
   "description": "OpenHarmony/HarmonyOS ArkUI like-ios 毛玻璃列表面板容器组件，适合设置项、信息行与分组列表承载。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
@@ -13,10 +13,14 @@
     "HarmonyOS",
     "ArkUI",
     "like-ios",
-    "frosted-glass",
-    "component"
+    "ios-like",
+    "kaworunagisa_hhl",
+    "list",
+    "panel",
+    "grouped-list",
+    "settings"
   ],
   "dependencies": {
-    "theme": "file:../theme"
+    "@kaworunagisa_hhl/theme": "file:../theme"
   }
 }
